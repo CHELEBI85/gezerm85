@@ -94,19 +94,7 @@
 
 <hr/>
 
-<!-- GITHUB İSTATİSTİKLERİ -->
-### 📈 GitHub İstatistikleri
-<div align="center">
 
-<!-- NOT: 'theme=transparent' koyu/açık temaya uyumlu. İstersen 'dark' temaya geçebilirsin. -->
-<img src="https://github-readme-stats.vercel.app/api?username=gezerm85&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" height="160" alt="stats" />
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezerm85&layout=compact&langs_count=8&theme=transparent" height="120" alt="top languages" />
-
-</div>
-
-<hr/>
 
 <!-- TROPHY -->
 ### 🏆 Trophy
